@@ -3,7 +3,7 @@ title: 如何使用edgeone加速部署在cloudflare worker的项目
 published: 2025-07-29
 description: ''
 image: ''
-tags: [edgeone][cloudflare]
+tags: [edgeone]
 category: '教程'
 draft: false 
 lang: ''
