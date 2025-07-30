@@ -27,13 +27,13 @@ PCL CE 会跟随主线进行更新，同时不断添加一些新功能，并及�
 
 1. 打开PCL CE，在**设置→其他→辅助功能**中打开测试版更新提示，如图
    
-   <img src="./assets/images/2025-07-29-20-45-03-image.png" title="" alt="" width="874">
+   <img title="" src="https://photo.0721255.xyz/file/1753847424830_2025-07-29-20-23-21-image.png" alt="" width="874">
 
 2. 提示更新后继续更新（如果没有则忽略这一步）
 
 3. 在**联机**选项卡中，设置中**登入账号**，如图
    
-   <img title="" src="./assets/images/2025-07-29-20-47-04-image.png" alt="" width="872">
+   <img src="https://photo.0721255.xyz/file/1753847368458_2025-07-29-20-25-32-image.png" title="" alt="https://photo.0721255.xyz/file/1753847368458_2025-07-29-20-25-32-image.png" width="893">
 
 4. 授权成功后，本步骤结束
 
@@ -51,7 +51,7 @@ PCL CE 会跟随主线进行更新，同时不断添加一些新功能，并及�
 
 1. 启动mc并且进入存档，打开对局域网开放（如果**您或您的朋友**为**离线登入**，**请禁用**正版验证），如图
    
-   <img title="" src="./assets/images/2025-07-29-20-48-58-image.png" alt="" width="886">
+   <img title="" src="https://photo.0721255.xyz/file/1753847512909_2025-07-29-20-38-17-image.png" alt="" width="886">
 
 2. 打开PCL联机选项卡，点击大厅→创建房间，选择实例，点击创建
 
