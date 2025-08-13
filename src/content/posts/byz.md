@@ -1,7 +1,7 @@
 ---
-title: 高中毕业照喵~
+title: 高中毕业喵~
 published: 2025-08-09
-description: '34班大家庭'
+description: '34班大家庭（还有蹭饭图）'
 image: 'https://photo.0721255.xyz/file/1754707754506_AAD5CEE8090367995245C7E6C59F128C.jpg'
 tags: [日常]
 category: '日常'
@@ -13,7 +13,7 @@ lang: ''
 
 ## 第一排
 
-王文妍、何雨菡、吴淑娴、倪可欣、李笑笑、王艳芳和她的女儿、于荟新、马晨曦、侯怡帆、郭涵、丁婷婷
+王玟妍、何雨菡、吴淑娴、倪可欣、李笑笑、王艳芳和她的女儿、于荟新、马晨曦、侯怡帆、郭涵、丁婷婷
 
 ## 第二排
 
@@ -34,6 +34,10 @@ lang: ''
 # 女生单独照
 
 <img src="https://photo.0721255.xyz/file/1754721856706_f91752d8cfe5cf7eaa0dc5b91e911e0a.jpeg" title="" alt="https://photo.0721255.xyz/file/1754721856706_f91752d8cfe5cf7eaa0dc5b91e911e0a.jpeg" width="726">
+
+# 蹭饭图~
+
+<img src="https://photo.0721255.xyz/file/1755098324585_34班蹭饭图.png" title="" alt="https://photo.0721255.xyz/file/1755098324585_34班蹭饭图.png" width="729">
 
 # 结语
 
