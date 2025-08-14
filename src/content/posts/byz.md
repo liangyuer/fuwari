@@ -39,6 +39,10 @@ lang: ''
 
 <img src="https://photo.0721255.xyz/file/1755098324585_34班蹭饭图.png" title="" alt="https://photo.0721255.xyz/file/1755098324585_34班蹭饭图.png" width="729">
 
+## 补充
+
+**吉林** 吉林大学 王怡雯
+
 # 结语
 
 **三十四班**
