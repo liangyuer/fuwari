@@ -47,7 +47,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "网盘",
-			url: "https://alist.ciallo.autos", // Internal links should not include the base path, as it is automatically added
+			url: "https://pan.0721255.xyz", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
