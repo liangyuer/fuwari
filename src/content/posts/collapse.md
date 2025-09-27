@@ -21,7 +21,7 @@ Collapse 启动器的名字源自 **崩坏** 的英文翻译，意味着它是�
 
 ::github{repo="CollapseLauncher/Collapse"}
 
-> 第三方下载链接：[点我喵~](https://alist.ciallo.autos/%E8%93%9D%E5%A5%8F%E4%BA%91/pc%E8%BD%AF%E4%BB%B6/Collapse)
+> 第三方下载链接：[点我喵~](https://pan.0721255.xyz/%E8%93%9D%E5%A5%8F%E4%BA%91/pc%E8%BD%AF%E4%BB%B6/Collapse)
 
 # 使用方法
 
